@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Gabriel
+I'm a Computer Science student at LTH in Sweden. I'm passionate about software development and exploring new technologies. 
+
+- 🔭 I’m currently working on concurrent Java projects.
+- 🌱 I’m learning more about concurrent programming and functional programming.
+
+## 🛠️ Tech Stack
+Here’s what I have experience/worked with:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+
+## 📊 GitHub Stats
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSkogHD&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSkogHD&layout=compact&theme=dark)
+
+## 📈 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielSkogHD&theme=dark)
 
 <!--
 **GabrielSkogHD/GabrielSkogHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
