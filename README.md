@@ -3,7 +3,6 @@ I'm a Computer Science student at LTH in Sweden. I'm passionate about software d
 
 - 🔭 I’m currently working on concurrent Java projects.
 - 🌱 I’m learning more about concurrent programming and functional programming.
-
 ## 🛠️ Tech Stack
 Here’s what I have experience/worked with:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -11,6 +10,10 @@ Here’s what I have experience/worked with:
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSkogHD&show_icons=true&theme=dark)
