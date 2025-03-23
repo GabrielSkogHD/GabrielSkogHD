@@ -1,8 +1,6 @@
-# Hi 👋, I'm Gabriel
+# Hi, I'm Gabriel
 I'm a Computer Engineering student at LTH in Sweden. I'm passionate about software development and exploring new technologies. 
 
-- 🔭 I’m currently working on concurrent Java projects.
-- 🌱 I’m learning more about concurrent programming and functional programming.
 ## 🛠️ Tech Stack
 Here’s what I have experience/worked with:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
